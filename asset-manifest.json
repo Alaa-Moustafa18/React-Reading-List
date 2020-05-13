@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Alaa-Moustafa18/React-Reading-List/static/css/main.8925ed0d.chunk.css",
+    "main.js": "/Alaa-Moustafa18/React-Reading-List/static/js/main.14c23fdd.chunk.js",
+    "main.js.map": "/Alaa-Moustafa18/React-Reading-List/static/js/main.14c23fdd.chunk.js.map",
+    "runtime-main.js": "/Alaa-Moustafa18/React-Reading-List/static/js/runtime-main.819c38f7.js",
+    "runtime-main.js.map": "/Alaa-Moustafa18/React-Reading-List/static/js/runtime-main.819c38f7.js.map",
+    "static/js/2.4b7df432.chunk.js": "/Alaa-Moustafa18/React-Reading-List/static/js/2.4b7df432.chunk.js",
+    "static/js/2.4b7df432.chunk.js.map": "/Alaa-Moustafa18/React-Reading-List/static/js/2.4b7df432.chunk.js.map",
+    "index.html": "/Alaa-Moustafa18/React-Reading-List/index.html",
+    "precache-manifest.1df885ca148d6b9539ab11f208ab6371.js": "/Alaa-Moustafa18/React-Reading-List/precache-manifest.1df885ca148d6b9539ab11f208ab6371.js",
+    "service-worker.js": "/Alaa-Moustafa18/React-Reading-List/service-worker.js",
+    "static/css/main.8925ed0d.chunk.css.map": "/Alaa-Moustafa18/React-Reading-List/static/css/main.8925ed0d.chunk.css.map",
+    "static/js/2.4b7df432.chunk.js.LICENSE.txt": "/Alaa-Moustafa18/React-Reading-List/static/js/2.4b7df432.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.819c38f7.js",
+    "static/js/2.4b7df432.chunk.js",
+    "static/css/main.8925ed0d.chunk.css",
+    "static/js/main.14c23fdd.chunk.js"
+  ]
+}
